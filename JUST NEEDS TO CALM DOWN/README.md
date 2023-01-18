@@ -1,4 +1,4 @@
-# YOU JUST NEED TO CALM DOWN, a Object Oriented Programming Exploration 
+# YOU JUST NEED TO CALM DOWN - An Object Oriented Programming Exploration 
 
 *Riddled with anxiety? Crippled under the burden of existential pain?*
 
