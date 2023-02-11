@@ -4,4 +4,4 @@
 
 *Have you tried not feeling this way?*
 
-### *You Just Need To Calm Down* explores the feeling of being told to chill out when in a distressed state. 
+### *You Just Need to Calm Down* is a breathing exercise with Object Oriented Programming that helps the user meditate. Boot it up and breathe along the flower.  
