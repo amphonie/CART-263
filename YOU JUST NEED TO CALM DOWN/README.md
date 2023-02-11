@@ -2,6 +2,4 @@
 
 *Riddled with anxiety? Crippled under the burden of existential pain?*
 
-*Have you tried not feeling this way?*
-
 ### *You Just Need to Calm Down* is a breathing exercise with Object Oriented Programming that helps the user meditate. Boot it up and breathe along the flower.  
