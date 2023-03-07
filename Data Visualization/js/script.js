@@ -3,6 +3,8 @@
 //Lee Wilkins
 //CART 263
 
+// The dataset of prompts taken from vipermu's krea.ai data. (https://github.com/krea-ai/open-prompts/blob/main/README.md)
+
 let myData;
 let myWords = [];
 let fontTitle;
