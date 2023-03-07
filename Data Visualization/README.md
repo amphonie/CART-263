@@ -1,3 +1,32 @@
-# Template p5 project
-
-This is the README file for the entire project. For more official projects you should write information here about the nature of the project, your name, any special explanations of how the project works, etc.
+    ....      ..                                                                     s                                
+  +^""888h. ~"888h                                                                  :8                                
+ 8X.  ?8888X  8888f     .u    .          u.      ..    .     :     .d``            .88                                
+'888x  8888X  8888~   .d88B :@8c   ...ue888b   .888: x888  x888.   @8Ne.   .u     :888ooo                             
+'88888 8888X   "88x: ="8888f8888r  888R Y888r ~`8888~'888X`?888f`  %8888:u@88N  -*8888888                             
+ `8888 8888X  X88x.    4888>'88"   888R I888>   X888  888X '888>    `888I  888.   8888                                
+   `*` 8888X '88888X   4888> '     888R I888>   X888  888X '888>     888I  888I   8888                                
+  ~`...8888X  "88888   4888>       888R I888>   X888  888X '888>     888I  888I   8888                                
+   x8888888X.   `%8"  .d888L .+   u8888cJ888    X888  888X '888>   uW888L  888'  .8888Lu=                             
+  '%"*8888888h.   "   ^"8888*"     "*888*P"    "*88%""*88" '888!` '*88888Nu88P   ^%888*                               
+  ~    888888888!`       "Y"         'Y"         `~    "    `"`   ~ '88888F`       'Y"                                
+       X888^"""                                                      888 ^                                            
+       `88f                                                          *8E                                              
+        88                                                           '8>                                              
+        ""                                                            "                                               
+      ....        .                                                                     s                             
+   .x88" `^x~  xH(`                                                                    :8                             
+  X888   x8 ` 8888h                 u.    u.                 .u    .                  .88           u.      .u    .   
+ 88888  888.  %8888        .u     x@88k u@88c.      .u     .d88B :@8c        u       :888ooo  ...ue888b   .d88B :@8c  
+<8888X X8888   X8?      ud8888.  ^"8888""8888"   ud8888.  ="8888f8888r    us888u.  -*8888888  888R Y888r ="8888f8888r 
+X8888> 488888>"8888x  :888'8888.   8888  888R  :888'8888.   4888>'88"  .@88 "8888"   8888     888R I888>   4888>'88"  
+X8888>  888888 '8888L d888 '88%"   8888  888R  d888 '88%"   4888> '    9888  9888    8888     888R I888>   4888> '    
+?8888X   ?8888>'8888X 8888.+"      8888  888R  8888.+"      4888>      9888  9888    8888     888R I888>   4888>      
+ 8888X h  8888 '8888~ 8888L        8888  888R  8888L       .d888L .+   9888  9888   .8888Lu= u8888cJ888   .d888L .+   
+  ?888  -:8*"  <888"  '8888c. .+  "*88*" 8888" '8888c. .+  ^"8888*"    9888  9888   ^%888*    "*888*P"    ^"8888*"    
+   `*88.      :88%     "88888%      ""   'Y"    "88888%       "Y"      "888*""888"    'Y"       'Y"          "Y"      
+      ^"~====""`         "YP'                     "YP'                  ^Y"   ^Y'                                     
+                                                                                                                      
+                                                                                                                      
+                                                                                                                      
+# Don't know what to come up with a prompt for all your stable diffusion needs? No worries, this prompt generator will do it for you! Just press the screen to generate a new prompt. #
+# Made with data from previously generated prompt, the code takes the string to split them up randomly. #
