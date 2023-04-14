@@ -84,7 +84,7 @@ class Data {
     let wordArray = split(this.selectedPrompt, ',');
     let randomWords = []; //An array to store previously used words. 
     
-    for (let i = 0; i < numWords; i++) { 
+    for (let i = 0; i < numWords; i++) { //An array to not overwhelm the code with infinite strings and returns to beginning of the loop when the prompt is refreshed
       if (wordArray.length > 0) {
         let randomIndex = int(random(0, wordArray.length));
         let selectedWord = wordArray[randomIndex].trim(); //Trims the string's whitespace
